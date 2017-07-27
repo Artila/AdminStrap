@@ -49,3 +49,8 @@
 .text-center {
 	text-align: center;
 }
+
+/* 弹出框 */
+.modal.in .modal-dialog {
+	z-index: 1041;
+}
